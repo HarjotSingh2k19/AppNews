@@ -70,14 +70,14 @@ const Navbar = () => {
                 </li>
               </ul>
 
-              <form className="d-none d-lg-flex">
+              {/* <form className="d-none d-lg-flex">
               <input
                 className="form-control me-2"
                 type="search"
                 placeholder="Search"
                 aria-label="Search"
               />
-              </form>
+              </form> */}
             </div>
           </div>
         </nav>
