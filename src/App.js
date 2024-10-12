@@ -40,7 +40,7 @@ const App = () => {
                 <News setProgress={setProgress} apiKey = {apiKey}
                   key="general"
                   pageSize={6}
-                  country="in"
+                  country="us"
                   category="general"
                 />
               }
@@ -52,7 +52,7 @@ const App = () => {
                 <News setProgress={setProgress} apiKey = {apiKey}
                   key="business"
                   pageSize={6}
-                  country="in"
+                  country="us"
                   category="business"
                 />
               }
@@ -64,7 +64,7 @@ const App = () => {
                 <News setProgress={setProgress} apiKey = {apiKey}
                   key="entertainment"
                   pageSize={6}
-                  country="in"
+                  country="us"
                   category="entertainment"
                 />
               }
@@ -76,7 +76,7 @@ const App = () => {
                 <News setProgress={setProgress} apiKey = {apiKey}
                   key="general"
                   pageSize={6}
-                  country="in"
+                  country="us"
                   category="general"
                 />
               }
@@ -88,7 +88,7 @@ const App = () => {
                 <News setProgress={setProgress} apiKey = {apiKey}
                   key="health"
                   pageSize={6}
-                  country="in"
+                  country="us"
                   category="health"
                 />
               }
@@ -100,7 +100,7 @@ const App = () => {
                 <News setProgress={setProgress} apiKey = {apiKey}
                   key="science"
                   pageSize={6}
-                  country="in"
+                  country="us"
                   category="science"
                 />
               }
@@ -112,7 +112,7 @@ const App = () => {
                 <News setProgress={setProgress} apiKey = {apiKey}
                   key="sports"
                   pageSize={6}
-                  country="in"
+                  country="us"
                   category="sports"
                 />
               }
@@ -124,7 +124,7 @@ const App = () => {
                 <News setProgress={setProgress} apiKey = {apiKey}
                   key="technology"
                   pageSize={6}
-                  country="in"
+                  country="us"
                   category="technology"
                 />
               }
